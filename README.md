@@ -6,12 +6,12 @@ This is a simple implementation of the classic Tic Tac Toe game using HTML, CSS,
 The game supports two players taking turns to mark their symbol (X or O) on a 3x3 grid. 
 The first player to align three of their symbols horizontally, vertically, or diagonally wins the game.
 
-Table of Contents
--Getting Started
--Game Rules
--Project Structure
--How to Play
--Customization
+## Table of Contents
+- Getting Started
+- Game Rules
+- Project Structure
+- How to Play
+- Customization
 
 ## Getting Started
 
